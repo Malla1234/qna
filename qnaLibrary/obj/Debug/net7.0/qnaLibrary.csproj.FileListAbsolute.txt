@@ -1,0 +1,12 @@
+C:\qna\qnaLibrary\bin\Debug\net7.0\qnaLibrary.deps.json
+C:\qna\qnaLibrary\bin\Debug\net7.0\qnaLibrary.dll
+C:\qna\qnaLibrary\bin\Debug\net7.0\qnaLibrary.pdb
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.csproj.AssemblyReference.cache
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.AssemblyInfoInputs.cache
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.AssemblyInfo.cs
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.csproj.CoreCompileInputs.cache
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.dll
+C:\qna\qnaLibrary\obj\Debug\net7.0\refint\qnaLibrary.dll
+C:\qna\qnaLibrary\obj\Debug\net7.0\qnaLibrary.pdb
+C:\qna\qnaLibrary\obj\Debug\net7.0\ref\qnaLibrary.dll
